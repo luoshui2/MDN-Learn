@@ -8,4 +8,4 @@ MDN Web Learing,include some demo、big work
 5.  每个文件夹里面的note文件夹是学习笔记，包括了word、md、pdf、effie文件格式
 ## HTML
 1.html介绍  
-  a.观鸟网demo [!image](./html/lesson1/assets/pic1.png)
+  a.观鸟网demo ![image](./html/lesson1/assets/pic1.png)
