@@ -1,0 +1,20 @@
+html {
+  font-family: sans-serif;
+  font-size:1px;
+}
+
+/* Your CSS below here */
+div {
+	width:200px;
+	height:200px;
+	margin:auto;
+	text-align:center;
+	display: flex;
+	justify-content: center; /* 在主轴上水平居中 */
+	align-items: center; /* 在交叉轴上垂直居中 */
+	font-size:17rem;
+	color:white;
+	background-color:red;
+	border-radius:10px;
+	border:2px solid rgb(180,0,0);
+}
