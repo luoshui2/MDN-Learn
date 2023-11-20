@@ -8,10 +8,10 @@ MDN Web Learing,include some demo、big work
 5.  每个文件夹里面的note文件夹是学习笔记，包括了word、md、pdf、effie文件格式
 ## HTML
 1. html介绍   
-    1. 观鸟网demo ---------------------------------------
+    1. 观鸟网demo 
        ![image](./html/lesson1/assets/pic1.png) 
 2. 多媒体与嵌入 
-    1. molliza宣传主页----------------------------------------
+    1. molliza宣传主页
        ![image](./html/lesson2/Mozilla/pic1.png)
 3. html表格
     1. 行星数据![image](./html/lesson3/plantData/pic1.png)
@@ -23,10 +23,10 @@ MDN Web Learing,include some demo、big work
     3. 个人主页![image](./CSS/lesson1/person-homepage/pic1.png)
 2. css基础
     1. 样式化表格![image](./CSS/lesson2/table/pic1.png)
-    2. 基本的css理解，个人卡片（洛天依）![image](./CSS/lesson2/card/pic1.png)
-    3. 一张信纸----------------------------------------------------- 
+    2. 基本的css理解，个人卡片（洛天依）-------------------------------![image](./CSS/lesson2/card/pic1.png)
+    3. 一张信纸---------------------------------------------------------------- 
        ![image](./CSS/lesson2/letter/pic1.png)
-    5. 一个盒子------------------------------------------------------
+    5. 一个盒子-------------------------------------------------------------------------
        ![image](./CSS/lesson2/box/pic1.png)
 3. 样式化文本
     1. 大学生首页排版
