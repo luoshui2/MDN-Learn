@@ -36,7 +36,7 @@ MDN Web Learing,include some demo、big work
 ## javaScript
 1. javascript第一步
     1. 猜数字![image](./JavaScript/lesson1/guessNumber/pic1.png)
-    2. 笑话生成器![image](./JavaScript/lesson1/joke/pic1.png)
+    2. 笑话生成器---------------------------------------------------![image](./JavaScript/lesson1/joke/pic1.png)
 2. javascript基础
     1. 图片库![image](./JavaScript/lesson2/picture/pic1.png)![image](./JavaScript/lesson2/picture/pic2.png)
 3. javascript对象
