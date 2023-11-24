@@ -40,3 +40,17 @@ function ButtonClick(e){
 }
 
 btn.onclick = ButtonClick;
+
+//设置鼠标的移动图片（div）
+const cursorPointed = document.querySelector('.pointed');
+
+
+document.addEventListener("mousemove", function(event) {
+    // 获取鼠标的当前位置
+    let mouseX = event.clientX;
+    let mouseY = event.clientY;
+
+    // 设置 div 的位置
+    cursorPointed.style.left = mouseX + "px";//设置单位，而且是字符串
+    cursorPointed.style.top = mouseY + "px";
+});
